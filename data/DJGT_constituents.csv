@@ -1,0 +1,53 @@
+Country,Corporation,Ticker,Industry
+United States,3M,MMM,Industrial Goods
+United States,AbbVie,ABBV,Pharmaceutical
+Germany,Allianz,ALV,Insurance
+United States,Alphabet,GOOG,Technology
+United States,Amazon,AMZN,Technology
+United States,Amgen,AMGN,Pharmaceutical
+Belgium,Anheuser-Busch InBev,ABI,Beverage
+United States,Apple,AAPL,Technology
+Australia,BHP,BHP,Metals
+United Kingdom,BP,BP,Oil & Gas
+United Kingdom,British American Tobacco,BATS,Tobacco
+United States,Chevron Corporation,CVX,Energy
+United States,Cisco,CSCO,Technology
+United States,Citigroup,C,Banking
+United States,Coca-Cola,KO,Food & Beverage
+United States,DuPont,DD,Chemicals
+United States,ExxonMobil,XOM,Energy
+United States,General Electric,GE,Conglomerate
+United Kingdom,GSK,GSK,Pharmaceutical
+United Kingdom,HSBC,HSBA,Banking
+United States,IBM,IBM,Technology
+United States,Intel,INTC,Technology
+United States,Johnson & Johnson,JNJ,Pharmaceutical
+United States,JPMorgan Chase,JPM,Banking
+United States,Mastercard,MA,Banking
+United States,McDonald's,MCD,Restaurant
+United States,Merck & Co.,MRK,Pharmaceutical
+United States,Meta,META,Technology
+United States,Microsoft,MSFT,Technology
+Switzerland,Nestl,NESN,Food & Beverage
+Switzerland,Novartis,NOVN,Pharmaceutical
+United States,Nvidia,NVDA,Technology
+United States,Oracle Corporation,ORCL,Technology
+United States,PepsiCo,PEP,Food & Beverage
+United States,Pfizer,PFE,Health Care
+United States,Philip Morris International,PM,Tobacco
+United States,Procter & Gamble,PG,Consumer Goods
+Switzerland,Roche,ROG,Health Care
+Canada,Royal Bank of Canada,RY,Banking
+South Korea,Samsung Electronics,SMSN,Conglomerate
+France,Sanofi,SAN,Pharmaceutical
+United Kingdom,Shell,RDSA,Oil & Gas
+Germany,Siemens,SIE,Conglomerate
+United States,The Boeing Company,BA,Aerospace
+United States,The Walt Disney Company,DIS,Entertainment
+France,TotalEnergies,TTE,Energy
+Japan,Toyota,TM,Automobiles & Parts
+Taiwan,TSMC,TSM,Technology
+United States,Visa,V,Banking
+United States,Walmart,WMT,Retail
+United States,Banco Santander Chile,BSAC,Banking
+United States,Black Hills Corp,BKH,Utilities
