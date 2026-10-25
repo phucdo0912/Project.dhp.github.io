@@ -4,5 +4,7 @@
 
 
 > **Thư mục bao gồm các nội dung sau:**
-**Dữ liệu:** Đỗ Hồng Phúc - 31231025123 - Data.csv
-**Notebook:** Đỗ Hồng Phúc - 31231025123 - notebook.ipynb
+>
+> **Dữ liệu:** Đỗ Hồng Phúc - 31231025123 - Data.csv
+>
+> **Notebook:** Đỗ Hồng Phúc - 31231025123 - notebook.ipynb
